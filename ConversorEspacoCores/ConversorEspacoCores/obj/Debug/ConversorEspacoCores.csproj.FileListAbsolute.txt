@@ -1,0 +1,9 @@
+C:\Users\raila\source\CSharp Projects\ConversorEspacoCores\ConversorEspacoCores\bin\Debug\ConversorEspacoCores.exe
+C:\Users\raila\source\CSharp Projects\ConversorEspacoCores\ConversorEspacoCores\bin\Debug\ConversorEspacoCores.pdb
+C:\Users\raila\source\CSharp Projects\ConversorEspacoCores\ConversorEspacoCores\obj\Debug\ConversorEspacoCores.csprojAssemblyReference.cache
+C:\Users\raila\source\CSharp Projects\ConversorEspacoCores\ConversorEspacoCores\obj\Debug\ConversorEspacoCores.Form1.resources
+C:\Users\raila\source\CSharp Projects\ConversorEspacoCores\ConversorEspacoCores\obj\Debug\ConversorEspacoCores.Properties.Resources.resources
+C:\Users\raila\source\CSharp Projects\ConversorEspacoCores\ConversorEspacoCores\obj\Debug\ConversorEspacoCores.csproj.GenerateResource.cache
+C:\Users\raila\source\CSharp Projects\ConversorEspacoCores\ConversorEspacoCores\obj\Debug\ConversorEspacoCores.csproj.CoreCompileInputs.cache
+C:\Users\raila\source\CSharp Projects\ConversorEspacoCores\ConversorEspacoCores\obj\Debug\ConversorEspacoCores.exe
+C:\Users\raila\source\CSharp Projects\ConversorEspacoCores\ConversorEspacoCores\obj\Debug\ConversorEspacoCores.pdb
